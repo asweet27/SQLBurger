@@ -1,0 +1,19 @@
+{
+  "name": "sqlburger",
+  "version": "1.0.0",
+  "description": "BUrgers made with MyAQL, Node, Handlebars, Express, and an ORM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asweet27/SQLBurger.git"
+  },
+  "author": "asweet27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asweet27/SQLBurger/issues"
+  },
+  "homepage": "https://github.com/asweet27/SQLBurger#readme"
+}
